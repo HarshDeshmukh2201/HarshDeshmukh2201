@@ -44,6 +44,8 @@ I'm interested in opportunities where I can contribute my React.js and Next.js e
 
 **GitHub:** [HarshDeshmukh2201](https://github.com/HarshDeshmukh2201)
 
+**Email:**(mailto:harshdeshmukh2201@gmail.com)
+
 ---
 
 *Building useful products, writing better code, and learning every day.*
