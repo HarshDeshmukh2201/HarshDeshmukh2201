@@ -28,17 +28,7 @@ A web-based code editor that supports writing and running Python and JavaScript 
 
 🔗 [View Repository](https://github.com/HarshDeshmukh2201/Online-Compiler)
 
-### 3. Todo Application
-A task management application for creating and managing todo items.
 
-**Tech Stack:** React.js, Redux, CSS
-
-🔗 [View Repository](https://github.com/HarshDeshmukh2201/Todo_App)
-
-### 4. LensCraft Photography
-A responsive photography website focused on visual presentation and user experience.
-
-🔗 [View Repository](https://github.com/HarshDeshmukh2201/LensCraftPhotography)
 
 ## 💡 What I Focus On
 
