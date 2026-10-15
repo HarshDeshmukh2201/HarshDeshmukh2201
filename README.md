@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Harsh Deshmukh 👋
 
-<!--
-**HarshDeshmukh2201/HarshDeshmukh2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | React.js | Next.js | Node.js
 
-Here are some ideas to get you started:
+I’m a Full-Stack Developer with 3+ years of experience in web development, specializing in React.js and Next.js. I enjoy building responsive user interfaces, integrating APIs, improving application performance, and developing full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Frontend:** React.js, Next.js, JavaScript, HTML, CSS
+- ⚙️ **Backend:** Node.js, Express.js, REST APIs
+- 🗄️ **Database:** MongoDB
+- 🎨 **UI & Styling:** Tailwind CSS, Bootstrap
+- 🛠️ **Tools:** Git, GitHub, Docker, Vercel
+- 🌱 **Currently Learning:** TypeScript and Redux Toolkit
+- 🎯 **Career Goal:** Building scalable, maintainable web applications
+
+## 🚀 Featured Projects
+
+### 1. Task Management System
+A web application designed to organize tasks, manage task statuses, and monitor progress through a dashboard.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+🔗 [View Repository](https://github.com/HarshDeshmukh2201/TSM--project)
+
+### 2. Online Compiler
+A web-based code editor that supports writing and running Python and JavaScript code.
+
+**Tech Stack:** Next.js, JavaScript
+
+🔗 [View Repository](https://github.com/HarshDeshmukh2201/Online-Compiler)
+
+### 3. Todo Application
+A task management application for creating and managing todo items.
+
+**Tech Stack:** React.js, Redux, CSS
+
+🔗 [View Repository](https://github.com/HarshDeshmukh2201/Todo_App)
+
+### 4. LensCraft Photography
+A responsive photography website focused on visual presentation and user experience.
+
+🔗 [View Repository](https://github.com/HarshDeshmukh2201/LensCraftPhotography)
+
+## 💡 What I Focus On
+
+- Building reusable and responsive UI components
+- Integrating REST APIs and handling application state
+- Improving web performance and maintainability
+- Developing frontend and backend features
+- Learning modern tools and development practices
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities where I can contribute my React.js and Next.js experience, solve real-world problems, and continue growing as a Full-Stack Developer.
+
+**GitHub:** [HarshDeshmukh2201](https://github.com/HarshDeshmukh2201)
+
+---
+
+*Building useful products, writing better code, and learning every day.*
